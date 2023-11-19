@@ -19,8 +19,8 @@ Make sure you have the following installed:
 Clone this repository to your local machine.
 
 ```bash
-git clone <[repository_url](https://github.com/azad2020/Webshop)>
-cd api-webshop-backend
+git clone <https://github.com/azad2020/Webshop>
+cd Webshop-API
 
 1. Install dependencies using Composer.
 composer install
