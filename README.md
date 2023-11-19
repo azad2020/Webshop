@@ -40,8 +40,8 @@ php artisan serve
 API Endpoints
 
 Import Master Data:
-
-Use the following artisan command to import master data from provided CSV files.
+First add customers.csv and products.csv to app/public/ directory 
+Then you can Use the following artisan command to import master data from provided CSV files.
 
 php artisan import:masterdata
 
