@@ -43,7 +43,7 @@ Import Master Data:
 
 Use the following artisan command to import master data from provided CSV files.
 
-php artisan import:data
+php artisan import:masterdata
 
 REST Service Endpoints
 List all orders: GET /api/v1/orders
