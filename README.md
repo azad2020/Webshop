@@ -30,7 +30,7 @@ cp .env.example .env
 
 3. Run database migrations and seeders.
 php artisan migrate
-php artisab db:seed
+php artisan db:seed
 
 4. Start the development server.
 php artisan serve
